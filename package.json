@@ -1,0 +1,19 @@
+{
+  "name": "pr-updater",
+  "version": "0.1.3",
+  "description": "Github Pull Request Updater",
+  "bin":"./src/app.js",
+  "author": "Ivan Panteleev",
+  "private": true,
+  "preferGlobal": "true",
+  "dependencies": {
+    "commander": "2.5.0",
+    "github":"0.2.3",
+    "exec":"0.1.2",
+    "jsdom":"1.3.1"
+  },
+  "devDependencies": {
+    "mocha": "2.0.1",
+    "should": "4.3.0"
+  }
+}

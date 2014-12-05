@@ -1,0 +1,6 @@
+{
+  "user": "USER_NAME",
+  "repo": "REPOSITORY_NAME",
+  "prId": "PULL_REQUEST_ID",
+  "token":"ENTER_YOUR_GITHUB_TOKEN_HERE"
+}
